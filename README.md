@@ -1,1 +1,1 @@
-# Wheel-of-Fortun
+# Wheel-of-Fortune
